@@ -81,8 +81,4 @@ This project is licensed under the **Apache 2.0 License**.
 ## Contributing
 Contributions are welcome! Open an issue or submit a pull request to improve the project.
 
-## Contact
-- **Author:** YOUR NAME
-- **Email:** YOUR EMAIL
-- **Hugging Face Repo:** [Link to Model Repo]
 
